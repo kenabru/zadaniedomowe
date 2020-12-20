@@ -1,0 +1,49 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+#link {
+  color: white;
+  background-color: tomato;
+  text-decoration: none;
+}
+
+#link:hover {
+  background: lightpink;
+}
+
+#rozpiska {
+  color: white;
+  background: lightskyblue;
+  text-decoration: none;
+}
+
+#rozpiska:hover {
+  background: lightsteelblue;
+}
+h1 {
+  text-align: center;
+  color: lightcoral;
+}
+h3 {
+  text-align: center;
+  color: white;
+  background: violet;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#idt {
+  text-align: center;
+  color: lightsalmon;
+  background: lightcyan;
+}
+.inf {
+  color: red;
+}
+.cp {
+  color: lightseagreen;
+  background: lightgrey;
+}
+.cd {
+  color: lightskyblue;
+  background: lightyellow;
+}

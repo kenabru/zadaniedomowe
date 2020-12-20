@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+}
+#bl {
+  list-style: none;
+  float: right;
+}
+.block {
+  display: block;
+  width: 150px;
+  height: 30px;
+  font-size: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: lightcoral;
+  padding: 15px 25px;
+  margin: 0px 50px 13px 0px;
+  border-radius: 2px;
+  box-shadow: 2px 2px 2px lightblue;
+}
+li a:hover {
+  background: lightpink;
+  box-shadow: 0px 0px 0px;
+}
+#heading {
+  background: rosybrown;
+  text-align: center;
+  color: white;
+}
+
+.im img {
+  width: 800px;
+  float: left;
+  margin-left: 370px;
+}
+#text {
+  text-align: center;
+  font-size: 25px;
+  word-spacing: 60px;
+  background-color: cornflowerblue;
+}
+#p {
+  color: white;
+  background: cornflowerblue;
+  position: absolute;
+  width: 280px;
+  height: 500px;
+  margin-left: 10px;
+  margin-top: 13px;
+}
